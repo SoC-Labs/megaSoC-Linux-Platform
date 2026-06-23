@@ -60,6 +60,7 @@ Linux assumes:
 - Timer is working
 
 Linux then takes over completely.
+
 # Status
 Currently megaSoC is under development but getting a feel for how we boot the device and add linux. 
 This may end up as a stale repo for a little while until we get the FPGA implementation of megaSoC fully working with DDR.
