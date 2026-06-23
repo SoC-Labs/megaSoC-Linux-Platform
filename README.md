@@ -3,11 +3,11 @@ This project contains necessary files to build a linux platform for SoC Labs meg
 
 # Boot process
 ROM
- ↓
+
 U-Boot (runs in EL2)
- ↓
+
 Linux (runs in EL1)
- ↓
+
 Userspace (EL0)
 
 
